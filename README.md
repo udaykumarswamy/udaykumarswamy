@@ -1,5 +1,4 @@
-# 💫 About Me:
-👋 Hi, I’m Uday<br><br>Senior Data Scientist / AI/ML Engineer with 7+ years of experience building end-to-end machine learning systems—from data pipelines and modeling to deployment and MLOps. Currently exploring context-aware AI systems, retrieval-augmented generation, and practical GenAI applications beyond demos.<br><br>📍 Chicago, IL<br>📫 Always open to collaboration for interesting problems
+👋 Hi, I’m Uday<br><br>Senior Data Scientist / AI/ML Engineer with 7+ years of experience building end-to-end machine learning systems — from data pipelines and modeling to deployment and MLOps. Currently exploring context-aware AI systems, retrieval-augmented generation, and practical GenAI applications beyond demos.<br><br>📍 Chicago, IL<br>📫 Always open to collaboration for interesting problems
 
 
 ## 🌐 Socials:
