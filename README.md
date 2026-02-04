@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Uday<br><br>Senior Data Scientist / AI/ML Engineer with 7+ years of experience building end-to-end machine learning systems—from data pipelines and modeling to deployment and MLOps.<br><br>I’ve worked on predictive modeling, NLP, GenAI, and agentic systems, with hands-on experience in LLMs, RAG, and production ML on AWS & GCP. I enjoy turning messy real-world data into scalable, reliable solutions that create measurable business impact.<br><br>What I work with<br><br>🧠 Machine Learning, Deep Learning, GenAI, LLMs, RAG, Agentic AI<br><br>🐍 Python, Java, SQL, NoSQL<br><br>☁️ AWS, GCP (BigQuery, Dataflow, Cloud Run/GKE)<br><br>🔁 MLOps, CI/CD, Docker, Kubernetes<br><br>Currently exploring context-aware AI systems, retrieval-augmented generation, and practical GenAI applications beyond demos.<br><br>📍 Chicago, IL<br>📫 Always open to collaboration and interesting problems
+👋 Hi, I’m Uday<br><br>Senior Data Scientist / AI/ML Engineer with 7+ years of experience building end-to-end machine learning systems—from data pipelines and modeling to deployment and MLOps.<br><br>I’ve worked on predictive modeling, NLP, GenAI, and agentic systems, with hands-on experience in LLMs, RAG, and production ML on AWS & GCP. I enjoy turning messy real-world data into scalable, reliable solutions that create measurable business impact.<br><br>What I work with<br><br>🧠 Machine Learning, Deep Learning, GenAI, LLMs, RAG, Agentic AI<br><br>🐍 Python, Java, SQL, NoSQL<br><br>☁️ AWS, GCP (BigQuery, Dataflow, Cloud Run/GKE)<br><br>🔁 MLOps, CI/CD, Docker, Kubernetes<br><br>Currently exploring context-aware AI systems, retrieval-augmented generation, and practical GenAI applications beyond demos.<br><br>📍 Chicago, IL<br>📫 Always open to collaboration for interesting problems
 
 
 ## 🌐 Socials:
@@ -15,4 +15,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=udaykumarswamy&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
